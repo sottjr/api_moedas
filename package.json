@@ -1,0 +1,12 @@
+{
+  "name": "api_moedas",
+  "version": "1.0.0",
+  "description": "moedas indices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sottjr",
+  "license": "ISC",
+  "keywords": []
+}
