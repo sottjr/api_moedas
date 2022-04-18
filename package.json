@@ -4,9 +4,14 @@
   "description": "moedas indices",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app-express.js"
   },
   "author": "sottjr",
   "license": "ISC",
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
 }
